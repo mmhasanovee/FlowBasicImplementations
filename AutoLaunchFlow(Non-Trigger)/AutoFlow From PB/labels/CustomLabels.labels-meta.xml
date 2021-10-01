@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Custom_Label_For_Flow</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Custom Label For Flow</shortDescription>
+        <value>This is a custom flow, updated from auto launched flow, called by process builder..</value>
+    </labels>
+</CustomLabels>
